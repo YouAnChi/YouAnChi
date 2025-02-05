@@ -84,20 +84,6 @@
         <p>When I'm not coding, you can find me <strong>hiking</strong>, <strong>reading</strong>, or <strong>playing guitar</strong>.</p>
     </div>
 
-    <div class="stats">
-        <p>访客计数：<span id="visitor-count">0</span></p>
-        <p>GitHub Stars: <img src="https://img.shields.io/github/stars/yourusername/yourrepo?style=social" alt="GitHub Stars"></p>
-    </div>
-
-    <script>
-        // Dynamic visitor count (simulated)
-        const visitorCountElement = document.getElementById('visitor-count');
-        let visitorCount = 0;
-
-        setInterval(() => {
-            visitorCount++;
-            visitorCountElement.textContent = visitorCount;
-        }, 1000);
-    </script>
+    
 </body>
 </html>
