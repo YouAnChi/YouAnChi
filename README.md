@@ -1,14 +1,5 @@
 <!-- Start of the README.md file -->
 
-<!-- Header Section -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YouAnChi&show_icons=true&theme=radical" alt="Your GitHub Stats">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YouAnChi&theme=radical" alt="Your GitHub Streak">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YouAnChi&langs_count=10&theme=radical" alt="Your Top Languages">
-</div>
-
 <!-- About Me Section -->
 <h2>About Me 🌟</h2>
 <p align="center">
@@ -17,6 +8,15 @@
   I love building things that solve real-world problems and push the boundaries of technology.<br>
   When I'm not coding, you can find me <strong>hiking</strong>, <strong>reading</strong>, or <strong>playing guitar</strong>.
 </p>
+
+<!-- Header Section -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YouAnChi&show_icons=true&theme=radical" alt="Your GitHub Stats">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YouAnChi&theme=radical" alt="Your GitHub Streak">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YouAnChi&langs_count=10&theme=radical" alt="Your Top Languages">
+</div>
 
 <!-- Skills Section -->
 <h2>Skills 🛠️</h2>
