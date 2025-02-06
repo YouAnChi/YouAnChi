@@ -10,23 +10,6 @@
   When I'm not coding, you can find me <strong>hiking</strong>, <strong>reading</strong>, or <strong>playing guitar</strong>.
 </p>
 
-<!-- Header Section -->
-<h2>GitHub Activity 💜</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YouAnChi&langs_count=10&theme=radical" alt="Your Top Languages">
-  <img src="https://github-readme-stats.vercel.app/api?username=YouAnChi&show_icons=true&theme=radical" alt="Your GitHub Stats">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YouAnChi&theme=radical" alt="Your GitHub Streak">
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YouAnChi&theme=xcode" alt="GitHub Activity Graph">
-  <br>
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YouAnChi/YouAnChi/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YouAnChi/YouAnChi/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TYouAnChi/YouAnChi/output/github-contribution-grid-snake.svg">
-</picture>
-</div>
-
 <!-- Skills Section -->
 <h2>Skills 🛠️</h2>
 <p align="center">
@@ -71,6 +54,24 @@
   <!-- Python -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 </p>
+
+<!-- Header Section -->
+<h2>GitHub Activity 💜</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YouAnChi&langs_count=10&theme=radical" alt="Your Top Languages">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=YouAnChi&show_icons=true&theme=radical" alt="Your GitHub Stats">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YouAnChi&theme=radical" alt="Your GitHub Streak">
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YouAnChi&theme=xcode" alt="GitHub Activity Graph">
+  <br>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YouAnChi/YouAnChi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YouAnChi/YouAnChi/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TYouAnChi/YouAnChi/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
 
 <!-- Contact Section -->
 <h2>Contact Me 📬</h2>
