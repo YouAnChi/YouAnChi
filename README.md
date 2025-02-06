@@ -1,7 +1,7 @@
 <!-- Start of the README.md file -->
 
 <!-- About Me Section -->
-<h2>About Me 🌟</h2>
+<h2>About Me 💜</h2>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=👋+Hello+World!+I'm+You+AnChi." alt="Typing SVG">
   <br>
@@ -10,34 +10,6 @@
   When I'm not coding, you can find me <strong>hiking</strong>, <strong>reading</strong>, or <strong>playing guitar</strong>.
 </p>
 
-<!-- Header Section -->
-<h2>GitHub Activity 💜</h2>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px;">
-  <!-- Row 1 -->
-  <div style="display: flex; flex-direction: row; justify-content: center; align-items: flex-start; gap: 20px; width: 100%; margin: 10px;">
-    <div style="flex: 1; text-align: center; max-width: 300px; min-width: 100px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YouAnChi&langs_count=10&theme=radical" alt="Your Top Languages" style="max-width: 100%; height: auto; object-fit: cover; border: 2px solid white; border-radius: 10px;">
-    </div>
-    <div style="flex: 1; text-align: center; max-width: 300px; min-width: 100px;">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=YouAnChi&theme=xcode" alt="GitHub Activity Graph" style="max-width: 100%; height: auto; object-fit: cover; border: 2px solid white; border-radius: 10px;">
-    </div>
-  </div>
-  <!-- Row 2 -->
-  <div style="display: flex; flex-direction: row; justify-content: center; align-items: flex-start; gap: 20px; width: 100%; margin: 10px;">
-    <div style="flex: 1; text-align: center; max-width: 500px; min-width: 300px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=YouAnChi&show_icons=true&theme=radical" alt="Your GitHub Stats" style="max-width: 100%; height: auto; object-fit: cover; border: 2px solid white; border-radius: 10px;">
-    </div>
-    <div style="flex: 1; text-align: center; max-width: 500px; min-width: 300px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=YouAnChi&theme=radical" alt="Your GitHub Streak" style="max-width: 100%; height: auto; object-fit: cover; border: 2px solid white; border-radius: 10px;">
-    </div>
-  </div>
-</div>
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YouAnChi/YouAnChi/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YouAnChi/YouAnChi/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TYouAnChi/YouAnChi/output/github-contribution-grid-snake.svg">
-</picture>
-</div>
 <!-- Skills Section -->
 <h2>Skills 🛠️</h2>
 <p align="center">
@@ -84,7 +56,7 @@
 </p>
 
 <!-- Header Section -->
-<h2>GitHub Activity 💜</h2>
+<h2>GitHub Activity 🌟</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YouAnChi&langs_count=10&theme=radical" alt="Your Top Languages">
   <br>
