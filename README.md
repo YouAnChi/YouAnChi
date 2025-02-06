@@ -17,7 +17,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YouAnChi&theme=radical" alt="Your GitHub Streak">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YouAnChi&langs_count=10&theme=radical" alt="Your Top Languages">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Taot-chen&theme=xcode" alt="GitHub Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YouAnChi&theme=xcode" alt="GitHub Activity Graph">
 
 </div>
 
