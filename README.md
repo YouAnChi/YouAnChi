@@ -56,7 +56,7 @@
 </p>
 
 <!-- Header Section -->
-<h2>GitHub Activity 🌟</h2>
+<h2>GitHub Activity (a cake)🎂</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YouAnChi&langs_count=10&theme=radical" alt="Your Top Languages">
   <br>
