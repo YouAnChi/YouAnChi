@@ -12,24 +12,20 @@
 
 <!-- Header Section -->
 <h2>GitHub Activity 💜</h2>
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; margin: 20px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px;">
   <!-- Row 1 -->
-  <div style="display: flex; gap: 20px; align-items: stretch;">
-    <div style="flex: 1; text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YouAnChi&langs_count=10&theme=radical" alt="Your Top Languages" style="max-width: 100%; height: 400px; object-fit: cover; border: 2px solid white; border-radius: 10px;">
-    </div>
-    <div style="flex: 1; text-align: center;">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=YouAnChi&theme=xcode" alt="GitHub Activity Graph" style="max-width: 100%; height: 400px; object-fit: cover; border: 2px solid white; border-radius: 10px;">
-    </div>
+  <div style="flex: 1 1 45%; text-align: center; margin: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YouAnChi&langs_count=10&theme=radical" alt="Your Top Languages" style="max-width: 100%; height: auto; object-fit: cover; border: 2px solid white; border-radius: 10px;">
+  </div>
+  <div style="flex: 1 1 45%; text-align: center; margin: 10px;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=YouAnChi&theme=xcode" alt="GitHub Activity Graph" style="max-width: 100%; height: auto; object-fit: cover; border: 2px solid white; border-radius: 10px;">
   </div>
   <!-- Row 2 -->
-  <div style="display: flex; gap: 20px; align-items: stretch; margin-top: 20px;">
-    <div style="flex: 1; text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api?username=YouAnChi&show_icons=true&theme=radical" alt="Your GitHub Stats" style="max-width: 100%; height: 400px; object-fit: cover; border: 2px solid white; border-radius: 10px;">
-    </div>
-    <div style="flex: 1; text-align: center;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=YouAnChi&theme=radical" alt="Your GitHub Streak" style="max-width: 100%; height: 400px; object-fit: cover; border: 2px solid white; border-radius: 10px;">
-    </div>
+  <div style="flex: 1 1 45%; text-align: center; margin: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=YouAnChi&show_icons=true&theme=radical" alt="Your GitHub Stats" style="max-width: 100%; height: auto; object-fit: cover; border: 2px solid white; border-radius: 10px;">
+  </div>
+  <div style="flex: 1 1 45%; text-align: center; margin: 10px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YouAnChi&theme=radical" alt="Your GitHub Streak" style="max-width: 100%; height: auto; object-fit: cover; border: 2px solid white; border-radius: 10px;">
   </div>
 </div>
   <picture>
