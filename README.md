@@ -3,6 +3,8 @@
 <!-- About Me Section -->
 <h2>About Me 🌟</h2>
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=👋+Hello+World!+I'm+You+AnChi." alt="Typing SVG">
+  <br>
   Hi, I'm <strong>YouAnChi</strong> 👋<br>
   A passionate <strong>Developer</strong> and <strong>Explorer</strong> of the digital realm.<br>
   I love building things that solve real-world problems and push the boundaries of technology.<br>
