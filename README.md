@@ -15,10 +15,10 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px;">
   <!-- Row 1 -->
   <div style="display: flex; flex-direction: row; justify-content: center; align-items: flex-start; gap: 20px; width: 100%; margin: 10px;">
-    <div style="flex: 1; text-align: center; max-width: 500px; min-width: 300px;">
+    <div style="flex: 1; text-align: center; max-width: 300px; min-width: 100px;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YouAnChi&langs_count=10&theme=radical" alt="Your Top Languages" style="max-width: 100%; height: auto; object-fit: cover; border: 2px solid white; border-radius: 10px;">
     </div>
-    <div style="flex: 1; text-align: center; max-width: 500px; min-width: 300px;">
+    <div style="flex: 1; text-align: center; max-width: 300px; min-width: 100px;">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=YouAnChi&theme=xcode" alt="GitHub Activity Graph" style="max-width: 100%; height: auto; object-fit: cover; border: 2px solid white; border-radius: 10px;">
     </div>
   </div>
