@@ -10,6 +10,7 @@
 </p>
 
 <!-- Header Section -->
+<h2>GitHub Activity </h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YouAnChi&show_icons=true&theme=radical" alt="Your GitHub Stats">
   <br>
@@ -61,12 +62,6 @@
   
   <!-- Python -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-</p>
-
-<!-- Snake Animation Section -->
-<h2>GitHub Activity 🐍</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YouAnChi/YouAnChi/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 </p>
 
 <!-- Contact Section -->
