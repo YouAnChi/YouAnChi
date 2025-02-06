@@ -9,26 +9,7 @@
   I love building things that solve real-world problems and push the boundaries of technology.<br>
   When I'm not coding, you can find me <strong>hiking</strong>, <strong>reading</strong>, or <strong>playing guitar</strong>.
 </p>
-<!-- GitHub Activity 💜 -->
-<h2>GitHub Activity 💜</h2>
-<div align="center">
-  <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <!-- First Row -->
-    <img src="<url id="cui6fp9djjppps0ra2i0" type="url" status="failed" title="" wc="0">https://github-readme-stats.vercel.app/api/top-langs/?username=YouAnChi&langs_count=10&theme=radical&#34;</url>" alt="Your Top Languages" height="150">
-    <img src="<url id="cui6fp9djjppps0ra2ig" type="url" status="failed" title="" wc="0">https://github-readme-activity-graph.vercel.app/graph?username=YouAnChi&theme=xcode&#34;</url>" alt="GitHub Activity Graph" height="150">
-  </div>
-  <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
-    <!-- Second Row -->
-    <img src="<url id="cui6fp9djjppps0ra2j0" type="url" status="failed" title="" wc="0">https://github-readme-stats.vercel.app/api?username=YouAnChi&show_icons=true&theme=radical&#34;</url>" alt="Your GitHub Stats" height="150">
-    <img src="<url id="cui6fp9djjppps0ra2jg" type="url" status="failed" title="" wc="0">https://github-readme-streak-stats.herokuapp.com/?user=YouAnChi&theme=radical&#34;</url>" alt="Your GitHub Streak" height="150">
-  </div>
-  <br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="<url id="" type="url" status="parsing" title="" wc="0">https://raw.githubusercontent.com/YouAnChi/YouAnChi/output/github-contribution-grid-snake-dark.svg&#34;&gt;</url>
-    <source media="(prefers-color-scheme: light)" srcset="<url id="" type="url" status="parsing" title="" wc="0">https://raw.githubusercontent.com/YouAnChi/YouAnChi/output/github-contribution-grid-snake.svg&#34;&gt;</url>
-    <img alt="github contribution grid snake animation" src="<url id="" type="url" status="parsing" title="" wc="0">https://raw.githubusercontent.com/TYouAnChi/YouAnChi/output/github-contribution-grid-snake.svg&#34;&gt;</url>
-  </picture>
-</div>
+
 <!-- Skills Section -->
 <h2>Skills 🛠️</h2>
 <p align="center">
