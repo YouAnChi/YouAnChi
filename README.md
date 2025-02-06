@@ -21,17 +21,46 @@
 <!-- Skills Section -->
 <h2>Skills 🛠️</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-  <img src="https://img.shields.io/badge/PostgreSQL-3168A2?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Go-Golang-blue?logo=go&logoColor=white" alt="Go">
+  
+  <!-- MySQL -->
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  
+  <!-- Gorm -->
+  <img src="https://img.shields.io/badge/Gorm-3776AB?style=flat-square&logo=go&logoColor=white" alt="Gorm">
+  
+  <!-- HTML -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
+  
+  <!-- CSS -->
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS">
+  
+  <!-- JavaScript -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  
+  <!-- Gin -->
+  <img src="https://img.shields.io/badge/Gin-3776AB?style=flat-square&logo=go&logoColor=white" alt="Gin">
+  
+  <!-- Beego -->
+  <img src="https://img.shields.io/badge/Beego-3776AB?style=flat-square&logo=go&logoColor=white" alt="Beego">
+  
+  <!-- Docker -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  
+  <!-- Git -->
+  <img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=git&logoColor=white" alt="Git">
+  
+  <!-- VSCode -->
+  <img src="https://img.shields.io/badge/VSCode-0078D7?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode">
+  
+  <!-- Linux -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  
+  <!-- Go-kit -->
+  <img src="https://img.shields.io/badge/Go-kit-3776AB?style=flat-square&logo=go&logoColor=white" alt="Go-kit">
+  
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 </p>
 
 <!-- Snake Animation Section -->
